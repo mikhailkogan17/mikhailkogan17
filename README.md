@@ -7,7 +7,7 @@ Platform Engineer with 10+ years of experience shipping consumer products at sca
 [**CyberMem**](https://github.com/mikhailkogan17/cybermem) — A production-grade Model Context Protocol (MCP) framework for AI agent's memory orchestration. Built with TypeScript, Kubernetes, and Zero-Trust networking.
 
 ### 📄 Professional Assets
-- **[Download my CV (PDF)](https://github.com/mikhailkogan17/docs/blob/main/cv/Mikhail_Kogan_Platform_Jan26_Int.pdf)** — *Note: Link will be active once PDF is uploaded.*
+- **[Download my CV (PDF)](https://github.com/mikhailkogan17/docs/blob/main/cv/CV_Mikhail_Kogan_Platform_Jan26_Glob.pdf)** — *Note: Link will be active once PDF is uploaded.*
 - **[LinkedIn Profile](https://linkedin.com/in/mikhail-kogan-platform)**
 - **[CyberMem Landing Page](https://cybermem.dev)**
 
