@@ -4,7 +4,7 @@
 Platform Engineer with 10+ years of experience shipping consumer products at scale. I specialize in bridging the gap between mobile development and cloud infrastructure, focusing on automation, observability, and developer experience.
 
 ### 🚀 Featured Project
-[**CyberMem**](https://github.com/mikhailkogan17/cybermem) — A production-grade Model Context Protocol (MCP) framework for AI agent's memory orchestration. Built with TypeScript, Kubernetes, and Zero-Trust networking.
+[**CyberMem**](https://github.com/mikhailkogan17/cybermem) — A production-grade Model Context Protocol (MCP) framework for AI agents' memory orchestration. Built with TypeScript, Kubernetes, and Zero-Trust networking.
 
 ### 📄 Professional Assets
 - **[Download my CV (PDF)](https://github.com/mikhailkogan17/mikhailkogan17/blob/main/cv/CV_Mikhail_Kogan_Platform_Jan26_Glob.pdf)**
