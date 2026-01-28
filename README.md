@@ -31,7 +31,7 @@ Agentic Engineer transitioning from 10+ years in consumer product engineering. I
 
 ### 📄 Links
 
-- **CV (PDF)** – [download](https://github.com/mikhailkogan17/mikhailkogan17/blob/main/cv/CV_Mikhail_Kogan_Platform_Jan26_Glob.pdf)  
+- **CV (PDF)** – [download](https://raw.githubusercontent.com/mikhailkogan17/mikhailkogan17/main/cv/CV_Mikhail_Kogan_Platform_Jan26_Glob.pdf)  
 - **LinkedIn** – [linkedin.com/in/mikhail-kogan-platform](https://linkedin.com/in/mikhail-kogan-platform)  
 - **CyberMem** – [cybermem.dev](https://cybermem.dev)
 
