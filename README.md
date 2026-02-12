@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mikhail
 
-**AI Agentic Engineer • Built cybermem.dev (Production MCP Server) • Platform & CI/CD**
-
 Agentic Engineer transitioning from 10+ years in consumer product engineering. I built **CyberMem** — a production MCP (Model Context Protocol) server that orchestrates shared memory across AI agents (Claude, ChatGPT, Cursor, Perplexity). I combine platform engineering and CI/CD experience with hands-on agent infrastructure: multi-agent memory orchestration, observability, zero-trust networking, and multi-platform deployments (macOS, Linux, Raspberry Pi, Kubernetes).
 
 ---
