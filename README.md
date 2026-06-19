@@ -27,6 +27,6 @@
 
 - **CyberMem** – [cybermem.dev](https://cybermem.dev) | [Docs](https://docs.cybermem.dev)  
 - **LinkedIn** – [linkedin.com/in/mikhail-kogan-platform](https://linkedin.com/in/mikhail-kogan-platform)  
-- **CV (PDF)** – [download](https://raw.githubusercontent.com/mikhailkogan17/mikhailkogan17/main/cv/CV_Mikhail_Kogan_Platform_Jan26_Glob.pdf)
+- **CV (PDF)** – [download](https://www.icloud.com/iclouddrive/0a0JpWcWueKFMd8eM4TeUfYPA)
 
 📫 **Open to MCP/Agentic Infrastructure roles:** [mikhailkogan17@gmail.com](mailto:mikhailkogan17@gmail.com)
