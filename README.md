@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mikhail
 
-**AI Engineer** — I build production LangGraph agents, MCP servers, and the infra to run them reliably. 10+ years in platform engineering; now focused full-time on agentic systems: stateful multi-step pipelines, RAG, tool calling, HITL loops, and observable deployments.
+**Platform Engineer — AI Agents & Developer Productivity** — I build coding agents, multi-agent orchestration (LangGraph, Mastra) and the CI/CD and observability that keep them reliable. 10+ years in platform engineering: scaled products to 5M+ users, grew a platform team from 1 to 13 engineers, owned CI/CD and release automation end to end.
 
 ---
 
